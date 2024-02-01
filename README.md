@@ -44,7 +44,7 @@ A repository of code samples and explanations from my favorite projects.
 ---
 
 <details>
-  <summary><h3>Dropping Dead</h3></summary>
+  <summary><h3>Dropping Undead</h3></summary>
   Stuff
 </details>
 
