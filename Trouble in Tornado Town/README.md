@@ -1,56 +1,13 @@
-# Code-Showcase
-A repository of code samples and explanations from my favorite projects.
+# Trouble In Tornado Town
+Trouble in Tornado Town is an physics-based destruction game featuring a giant tornado! Trouble in Tornado Town was produced by a team of 10 college students, outside of class time, to learn how to ship a game. I was the lead programmer and created the wacky gameplay systems that make it so fun to play! I optimized the physics and rendering pipelines to work for the thousands of object we wanted on-screen. It is now fully released on Steam following 2 major post-launch updates.
 
 <details>
-  <summary><h3>Trouble in Tornado Town</h3></summary>
-  Stuff
-</details>
+  <summary> <h3>Physics Object Optimisation</h3></summary>
 
----
+  This is the description
 
-<details>
-  <summary><h3>Match Free</h3></summary>
-  Stuff
-</details>
-
----
-
-<details>
-  <summary><h3>Wrappa-Ball</h3></summary>
-  Stuff
-</details>
-
----
-
-<details>
-  <summary><h3>Infinite Bubble Wrap Simulator</h3></summary>
-  Stuff
-</details>
-
----
-
-<details>
-  <summary><h3>Desert Darts</h3></summary>
-  Stuff
-</details>
-
----
-
-<details>
-  <summary><h3>Krafts</h3></summary>
-  Stuff
-</details>
-
----
-
-<details>
-  <summary><h3>Dropping Undead</h3></summary>
-  Stuff
-</details>
-
----
-
-<details>
-  <summary><h3>Kaset</h3></summary>
-  Stuff
+  ```C#
+  This is some code
+  ```
+  
 </details>
