@@ -1,7 +1,5 @@
 # Krafts
-Krafts is an arts and crafts making experience made for a 48 hour game jam run by Game Makers Tool Kit (GMTK). With the theme of "Joined Together", I was inspired by glue and wanted to make a therapeutic experience reminiscent of kindergarten arts and crafts.
-
-Players can arrange many different objects, glue them together, and even draw on them! After they finish they can shake off any un-glued objects and save a screenshot of their creation to their device. During the jam I engaged with the community by collecting their screenshots and putting them on the main game page!
+Krafts is an arts and crafts making experience made in 2 days for a game jam with the theme of "Joined Together". I was inspired by glue and wanted to make a therapeutic experience reminiscent of kindergarten arts and crafts. Arrange many different objects, glue them together, and even draw on them! After you finish, shake off any un-glued objects and save a screenshot of your creation to your device. During the jam I engaged with the community by collecting their favorite screenshots and put them on the front page.
 
 <details>
   <summary> 
@@ -13,6 +11,8 @@ Players can arrange many different objects, glue them together, and even draw on
 In Krafts, a huge issue I ran into right away was making sure the sprites were being layered as someone would expect them to be. If a player grabs an object it should be on top of everthing else, and any newly created objects would be on top of that. My quick, yet effective, solution for the game jam was to use the Z-axis to layer the sprites.
 
 I initially looked into LayerMasks, but with the amount of layering I wanted to do it did not seem like a scalable solution.
+
+https://github.com/JoshuaPelican/Code-Showcase/assets/65318134/db7a0a09-1dae-49c9-9d74-a3063a336e20
 
 ```C#
 public class ToolManager : MonoBehaviour
