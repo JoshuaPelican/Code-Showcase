@@ -1,7 +1,7 @@
 # Krafts
 Krafts is an arts and crafts making experience made in 2 days for a game jam with the theme of "Joined Together". I was inspired by glue and wanted to make a therapeutic experience reminiscent of kindergarten arts and crafts. Arrange many different objects, glue them together, and even draw on them! After you finish, shake off any un-glued objects and save a screenshot of your creation to your device. During the jam I engaged with the community by collecting their favorite screenshots and put them on the front page.
 
-See the whole repository for this project here: https://github.com/JoshuaPelican/Krafts
+See the entire repository for this project here: https://github.com/JoshuaPelican/Krafts
 
 <details>
   <summary> 
