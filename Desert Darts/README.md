@@ -68,5 +68,7 @@ private SpinePattern RandomWeightedSpinePattern()
 }
 ```
 
+If I were to rewrite this system, I would simply clean up the logic for how patterns are picked and the global intensity is calculated. The system itself works well and it would be easy enough to go in and add new patterns well after the game's conception.
+
 </details>
 
